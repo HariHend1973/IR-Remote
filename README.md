@@ -10,10 +10,10 @@ required
 
 steps arduino
 - sambungkan jumper dari arduino ke IR receiver(sesuaikan pin assignment, lihat datasheet IR)
-ARDUINO-----IR
-VCC---------VCC
-GND---------GND
-D3----------DATA
+- ARDUINO-----IR
+- VCC---------VCC
+- GND---------GND
+- D3----------DATA
 - download source code arduino + IR receiver
 https://drive.google.com/file/d/1dGKk8KpWdx5MVf-Wyn49lWTAAaDbAm2y/view?usp=drivesdk
 atau disini:
